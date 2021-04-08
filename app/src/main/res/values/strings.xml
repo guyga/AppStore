@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppStore</string>
+    <string name="top_new_free_apps_title">Top new free android apps</string>
+    <string name="contains_ads">Contains Ads</string>
+</resources>
